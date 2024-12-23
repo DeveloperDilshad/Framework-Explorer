@@ -1,0 +1,16 @@
+{
+  "source": "/Users/dilshadp/FrameWork/FrameWork/Screens/FrameworkDetailView/FrameworkDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Learn More",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 30
+        }
+      }
+    ]
+  },
+  "version": 1
+}

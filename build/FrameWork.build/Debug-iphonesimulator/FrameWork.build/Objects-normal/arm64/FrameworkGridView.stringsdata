@@ -1,0 +1,16 @@
+{
+  "source": "/Users/dilshadp/FrameWork/FrameWork/Screens/FrameworkGridView/FrameworkGridView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "🍎 Frameworks",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 25
+        }
+      }
+    ]
+  },
+  "version": 1
+}
